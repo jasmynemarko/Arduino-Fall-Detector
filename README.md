@@ -35,7 +35,7 @@ INSTALLATION
 - SoftwareSerial.h
 - WiFiS3.h
 - BlynkSimpleWifi.h
-3. Open the provided Arduino sketch (sketch_oct29a_copy_20261031083621_copy_20261031132335) in the Arduino IDE.
+3. Open the provided Arduino sketch (sketch_oct29a_copy_20261031083621_copy_2026_copy_20261031143155) in Arduino IDE.
 4. Replace the placeholder values in the sketch with your Blynk authentication token and Wi-Fi credentials.
 5. Upload the sketch to your Arduino UNO R4 Wifi board.
 
@@ -43,7 +43,7 @@ USAGE
 
 1. Open the Blynk mobile app on your smartphone.
 2. Create a new project and obtain the Blynk authentication token (Devices).
-3. Create an Event on app with event code, fall.alert, and enable notifications.
+3. Create an Event on app with event code, fall_alert, and enable notifications.
  - Also, go to developer zone > datastream > then make 2 seperate datastreams. 
 4. One will have pin: V1 (integer) and other will be pin: V2 (integer) - this ensures data transmits to BLYNK app
 5. Run the Arduino board with the uploaded sketch.
