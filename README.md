@@ -35,7 +35,7 @@ INSTALLATION
 - SoftwareSerial.h
 - WiFiS3.h
 - BlynkSimpleWifi.h
-3. Open the provided Arduino sketch (sketch_oct29a_copy_20261031083621.ino) in the Arduino IDE.
+3. Open the provided Arduino sketch (sketch_oct29a_copy_20261031083621_copy_20261031132335) in the Arduino IDE.
 4. Replace the placeholder values in the sketch with your Blynk authentication token and Wi-Fi credentials.
 5. Upload the sketch to your Arduino UNO R4 Wifi board.
 
@@ -61,3 +61,4 @@ TROUBLESHOOTING
 - Check the serial monitor for debug messages and sensor readings to diagnose any issues.
 
 WIRING DIAGRAM
+<img width="957" height="538" alt="Screenshot 2026-10-31 at 1 52 52 pm" src="https://github.com/user-attachments/assets/6125c6c3-50f7-4463-af51-5ab4e41dd01e" />
